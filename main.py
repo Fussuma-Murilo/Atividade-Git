@@ -1,3 +1,3 @@
-texto = str(innput('Insira o texto a ser exibido: '))
+texto = str(input('Insira o texto a ser exibido: '))
 
 print(texto)
